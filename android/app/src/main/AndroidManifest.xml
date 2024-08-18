@@ -6,7 +6,7 @@
 
     <application
         android:label="food_app"
-        android:name="${applicationName}"
+        android:name="com.yayaly.food_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
